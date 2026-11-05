@@ -19,6 +19,7 @@ class ScoreKeeper {
     // at `MIN_SCORE`. Instead of repeating the constructor logic, use
     // `this(...)` to call the other constructor below, passing `MIN_SCORE`
     // as the argument.
+    // this is my method here
 
 
     // Write a constructor `ScoreKeeper(int startingScore)` that sets `score`
